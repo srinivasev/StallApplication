@@ -1,0 +1,5 @@
+<persistence>
+    <properties>
+      <property name="hibernate.cache.use_second_level_cache" value="true" />
+    </properties>
+</persistence>
